@@ -8,7 +8,7 @@ public class DemoA {
 	@Test
 	public void testA(){
 		
-	Syste,.out.print("Hiii");
+	System.out.print("Hiii");
 		
 	}
 	
